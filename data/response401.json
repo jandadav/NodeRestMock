@@ -1,0 +1,10 @@
+{
+    "messages": [
+        {
+            "messageType": "ERROR",
+            "messageNumber": "ZWEAG120E",
+            "messageContent": "Invalid username or password for URL '/api/zosmfca32/zosmf/info'",
+            "messageKey": "apiml.gateway.security.login.invalidCredentials"
+        }
+    ]
+}
